@@ -1,2 +1,4 @@
 .vagrant
 /*.log
+client/node_modules
+client/.next
